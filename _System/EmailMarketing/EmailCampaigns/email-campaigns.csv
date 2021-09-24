@@ -1,0 +1,1 @@
+CampaignID,ParentID,Template,ListID,CampaignType,Name,EmailFrom,EmailAddress,EmailSubject,EmailFormat,Draft,StartDate,EndDate,CreateBy,CreateDate,LastUpdateBy,LastUpdateDate,Enabled,Archived,Status,OnHold,PercentCompleted,CompleteDate,Recurrence,RecurrenceFrequency,NextRecurrenceDate,DeliveryDate
